@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on building a personal website
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: linkedin.com/in/anika-kamath
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/anika-kamath)
