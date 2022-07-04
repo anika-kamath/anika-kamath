@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on building a personal website
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter and Dart
 - 🎒 I'm a freshman studying Computer Science and Engineering
 
 <img src = "https://github-readme-stats.vercel.app/api?username=anika-kamath&&show_icons=true&title_color=ffffff&icon_color=83c9f4&text_color=daf7dc&bg_color=151515" >
