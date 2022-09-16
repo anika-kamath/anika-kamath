@@ -1,9 +1,9 @@
 ### Hi there, I'm Anika! 👋 
 
 
-- 🎒 I'm a freshman studying Computer Science and Engineering
-- 🔭 I’m currently working on building a personal website
-- 🌱 I’m currently learning Flutter and Dart
+- 🎒 I'm a sophomore studying Computer Science and Engineering
+- 🔭 I’m working on building a personal website
+- 🌱 I’m currently learning Tensorflow
 - 👩‍💻 I'm passionate about UI/UX and graphic design
 
 <img src = "https://github-readme-stats.vercel.app/api?username=anika-kamath&&show_icons=true&title_color=ffffff&icon_color=83c9f4&text_color=daf7dc&bg_color=151515" >
