@@ -3,7 +3,7 @@
 
 - 🎒 I'm a sophomore studying Computer Science and Engineering
 - 👩‍💻 I'm a UI/UX and Graphic Designer
-- 💻 [Visit my website](anika-kamath.github.io/portfolio/)
+- 💻 [Visit my website](https://anika-kamath.github.io/portfolio/)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=anika-kamath&&show_icons=true&title_color=ffffff&icon_color=83c9f4&text_color=daf7dc&bg_color=151515" >
 
