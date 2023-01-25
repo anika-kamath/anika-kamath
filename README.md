@@ -5,11 +5,8 @@
 - 👩‍💻 I'm a UI/UX and Graphic Designer
 - 💻 [Visit my website](https://anika-kamath.github.io/portfolio/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anika-kamath&show_icons=true&locale=en&layout=compact" alt="anika-kamath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anika-kamath&show_icons=true&theme=tokyonight&locale=en" alt="anika-kamath" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anika-kamath&show_icons=true&locale=en" alt="anika-kamath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anika-kamath&" alt="anika-kamath" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
