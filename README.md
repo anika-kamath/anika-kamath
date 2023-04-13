@@ -9,6 +9,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anika-kamath&theme=highcontrast" alt="anika-kamath" /></p>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anika-kamath)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anikakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anikakamath" height="30" width="40" /></a>
