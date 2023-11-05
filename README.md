@@ -1,9 +1,10 @@
-### Hi there, I'm Anika! 👋 
+### Hey there, I'm Anika! 👋 
 
 
-- 🎒 I'm a sophomore studying Computer Science and Engineering
-- 👩‍💻 I'm a UI/UX and Graphic Designer
-- 💻 [Visit my website](https://anika-kamath.github.io/portfolio/)
+- 🎒 A pre-final year student studying CS Engineering
+- 👩‍💻 I'm a UI/UX and Graphic Designer, and a front-end developer.
+- 📚 I'm passionate about data-driven and ML projects
+- 💻 [Visit my website](https://anikakamath.super.site/)
 
 
 <h3 align="left">Connect with me:</h3>
