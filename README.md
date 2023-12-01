@@ -25,6 +25,13 @@
 </p>
 
 <p align="center">
+  <h4 align="left">Data Science and Machine Learning:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,tf,se" />
+  </a>
+</p>
+
+<p align="center">
   <h4 align="left">Web Development:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,heroku,materialui,nextjs,react,netlify,tailwind" />
@@ -35,5 +42,12 @@
   <h4 align="left">UI/UX and Graphic Design:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,xd,webflow" />
+  </a>
+</p>
+
+<p align="center">
+  <h4 align="left">Others:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,wordpress,ms,latex,arduino" />
   </a>
 </p>
