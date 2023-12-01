@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <h3 align="center">Frontend Dev:</h3>
+  <h4 align="left">Frontend Dev:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,heroku,materialui,nextjs,react" />
   </a>
