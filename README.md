@@ -4,7 +4,7 @@
 - 🎒 A pre-final year student studying CS Engineering
 - 👩‍💻 I'm a UI/UX and Graphic Designer, and a front-end developer.
 - 📚 I'm passionate about data-driven and ML projects
-- 💻 [Visit my website](https://anikakamath.super.site/)
+- 💻 [Visit my website](https://anikakamath.super.site/) 
 
 
 <h3 align="left">Connect with me:</h3>
