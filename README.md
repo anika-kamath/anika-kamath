@@ -18,8 +18,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <h4 align="left">Frontend Dev:</h4>
+  <h4 align="left">Programming Languages:</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,heroku,materialui,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,java,js,matlab" />
+  </a>
+</p>
+
+<p align="center">
+  <h4 align="left">Web Development:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flask,heroku,materialui,nextjs,react,netlify,tailwind" />
+  </a>
+</p>
+
+<p align="center">
+  <h4 align="left">UI/UX and Graphic Design:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,xd,webflow" />
   </a>
 </p>
