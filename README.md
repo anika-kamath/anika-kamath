@@ -1,11 +1,12 @@
 # 👋 Hello, I'm Anika
 
-## I am a
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=32&lines=UI/UX+Designer;Frontend+Developer;Data+Analyst;ML+Developer)](https://git.io/typing-svg)
+### I am a
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=28&lines=UI/UX+Designer;Frontend+Developer;Data+Analyst;ML+Developer)](https://git.io/typing-svg)
 
 - 🎒 A pre-final year student studying CS Engineering.
 - 📚 I'm passionate about Data-driven and ML/DL projects and research.
 - 💻 [Visit my website](https://anikakamath.super.site/) 
+
 
 
 ## ✉️ Let's Connect
@@ -17,7 +18,7 @@
 <a href="https://www.leetcode.com/anikakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anikakamath" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Languages and Tools
 <p align="center">
   <h4 align="left">Programming Languages:</h4>
   <a href="https://skillicons.dev">
