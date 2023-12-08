@@ -7,7 +7,7 @@
 - 📚 I'm passionate about Data-driven and ML/DL projects and research.
 - 💻 [Visit my website](https://anikakamath.super.site/) 
 
-
+<br>
 
 ## ✉️ Let's Connect
 <p align="left">
@@ -17,6 +17,7 @@
 <a href="https://www.hackerrank.com/anikakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anikakamath" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anikakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anikakamath" height="30" width="40" /></a>
 </p>
+<br>
 
 ## 💻 Languages and Tools
 <p align="center">
