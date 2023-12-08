@@ -1,15 +1,14 @@
-# Hello, I'm Anika
+# 👋 Hello, I'm Anika
 
 ## I am a
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=32&lines=UI/UX+Designer;Frontend+Developer;Data+Analyst;ML+Developer)](https://git.io/typing-svg)
 
-- 🎒 A pre-final year student studying CS Engineering
-- 👩‍💻 I'm a UI/UX and Graphic Designer, and a front-end developer.
-- 📚 I'm passionate about data-driven and ML projects
+- 🎒 A pre-final year student studying CS Engineering.
+- 📚 I'm passionate about Data-driven and ML/DL projects and research.
 - 💻 [Visit my website](https://anikakamath.super.site/) 
 
 
-<h3 align="left">Connect with me:</h3>
+## ✉️ Let's Connect
 <p align="left">
 <a href="https://dev.to/anikakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anikakamath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anika-kamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika-kamath" height="30" width="40" /></a>
