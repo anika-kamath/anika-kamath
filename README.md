@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anika
+# 👋 Hello, I'm Anika!
 
 ### I am a
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=28&lines=UI/UX+Designer;Frontend+Developer;Data+Analyst;ML+Developer)](https://git.io/typing-svg)
@@ -9,7 +9,7 @@
 
 <br>
 
-## ✉️ Let's Connect
+## ✉️ Connect with me:
 <p align="left">
 <a href="https://dev.to/anikakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anikakamath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anika-kamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika-kamath" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 </p>
 <br>
 
-## 💻 Languages and Tools
+## 💻 Languages and Tools:
 <p align="center">
   <h4 align="left">Programming Languages:</h4>
   <a href="https://skillicons.dev">
