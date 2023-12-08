@@ -1,5 +1,7 @@
-### Hey there, I'm Anika! 👋 
+# Hello, I'm Anika
 
+## I am a
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=32&lines=UI/UX+Designer;Frontend+Developer;Data+Analyst;ML+Developer)](https://git.io/typing-svg)
 
 - 🎒 A pre-final year student studying CS Engineering
 - 👩‍💻 I'm a UI/UX and Graphic Designer, and a front-end developer.
