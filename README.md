@@ -54,3 +54,11 @@
     <img src="https://skillicons.dev/icons?i=git,github,visualstudio,wordpress,md,latex,arduino" />
   </a>
 </p>
+
+## GitHub Stats
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anika-kamath&theme=rose_pine" width="90%" alt="stats graph"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anika-kamath&theme=rose_pine" width="45%" alt="stats graph"/> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anika-kamath&theme=rose_pine" width="45%" alt="stats graph"/>
+ 
+</div>
