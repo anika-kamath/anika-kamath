@@ -3,9 +3,9 @@
 ### I am a 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=22&lines=UI/UX+Designer;Frontend+Developer;Data+Analyst;ML+Developer)](https://git.io/typing-svg)
 
-- 🎒 A pre-final year student studying CS Engineering.
-- 📚 I'm passionate about Data-driven and ML/DL projects and research.
-- 💻 [Visit my website](https://anikakamath.super.site/) 
+- 🎒 A final year student studying CS Engineering.
+- 📚 I'm passionate about Data-driven, ML/DL projects and FinTech research.
+- 💻 [Visit my website](https://bento.me/anika-kamath) 
 
 <br>
 
